@@ -2,15 +2,15 @@
 
 ### **Welcome 👋**
 
-<p align="center" width="200">
+<!-- <p align="center" width="200">
    <img align="center" width="100" src="https://raw.githubusercontent.com/" />
-</p>
+</p> -->
 
-# 🌮 Q DAO [UI]
+# Q DAO [UI]
 
 The project is deployed in Vercel so you can see it and interact with it, any criticism or comment is appreciated, you can access the demo in the following link:
 
-### **[See DEMO](https://)**
+<!-- ### **[See DEMO](https://)** -->
 
 ### **CONTRATOS**
 
@@ -21,20 +21,20 @@ The project is deployed in Vercel so you can see it and interact with it, any cr
 
 ## About the project
 
-Web-based web project3 developed with Next.js, ChakraUI and ThirdWeb. In this application users will be able to be part of the QDAO where they can mint their membership NFT and use the DAO token for decision making within the Q organization 🌮.
+Web-based web project3 developed with Next.js, ChakraUI and ThirdWeb. In this application users will be able to be part of the QDAO where they can mint their membership NFT and use the DAO token for decision making within the Q organization.
 
 For this it is necessary to first authenticate using the Metamask wallet and configuring it to use the Rinkeby test network.
 
-QDAO is a decentralized autonomous organization (DAO) is an entity without central leadership. Decisions are made from the bottom up, governed by a community organized around a specific set of rules that apply on a blockchain. This DAO is developed with 'third website' for decision-making related to the Q Club🌮... 
+QDAO is a decentralized autonomous organization (DAO) is an entity without central leadership. Decisions are made from the bottom up, governed by a community organized around a specific set of rules that apply on a blockchain. This DAO is developed with 'third website' for decision-making related to the Q Club... 
 
 It has its own Governance Token and Membership NFT.
 
-## Some screenshots of the project:
+<!-- ## Some screenshots of the project:
 
 ![screenshot#1](https://raw.githubusercontent.com/)
 ![screenshot#2](https://raw.githubusercontent.com/)
 ![screenshot#3](https://raw.githubusercontent.com/)
-![screenshot#4](https://raw.githubusercontent.com/)
+![screenshot#4](https://raw.githubusercontent.com/) -->
 
 ...
 
